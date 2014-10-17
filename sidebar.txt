@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lko:home|Door43 (lko)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lko|d43-lko repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lko/archive/master.zip|d43-lko.zip]]
+
+**Recent Changes**
+{{changes>ns = lko}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lko|Ethnologue data]]
+
